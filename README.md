@@ -1,4 +1,4 @@
-## Salve! Meu nome é João Guilherme  
+
  <div>
   <a href="https://github.com/joaoguilhermemendes">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaoguilhermemendes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
