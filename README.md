@@ -21,8 +21,12 @@
   <a href = "mailto:joaoguilhermepmendes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">       </a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-guilherme-porto-mendes-855098209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22u5sgcsp7bvy23iqjpv4vcbi&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
- 
- 
 </div>
+ 
+<div> 
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22u5sgcsp7bvy23iqjpv4vcbi&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+ </div>
+ 
+ 
+
 
