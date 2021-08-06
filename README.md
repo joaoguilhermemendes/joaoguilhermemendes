@@ -1,8 +1,8 @@
 
  <div>
   <a href="https://github.com/joaoguilhermemendes">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaoguilhermemendes&show_icons=true&theme=green&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguilhermemendes&layout=compact&langs_count=16&theme=green"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaoguilhermemendes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguilhermemendes&layout=compact&langs_count=16&theme=dark"/>
 <div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,6 +22,8 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3o-guilherme-porto-mendes-855098209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
+ 
+ ##
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22u5sgcsp7bvy23iqjpv4vcbi&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
