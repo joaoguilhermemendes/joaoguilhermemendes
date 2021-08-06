@@ -1,6 +1,10 @@
 
  <div>
-  <a href="https://github.com/joaoguilhermemendes">
+ <img height="150em" src="https://thumbs.gfycat.com/ClearShoddyDrongo-max-1mb.gif"/>
+ </div>
+ 
+ <div>
+ <a href="https://github.com/joaoguilhermemendes">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaoguilhermemendes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguilhermemendes&layout=compact&langs_count=16&theme=dark"/>
 <div>
