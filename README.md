@@ -31,7 +31,7 @@
   <a href = "mailto:joaoguilhermemendes@id.uff.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-guilherme-porto-mendes-855098209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- <img height="170em" src=" https://s3.us-west-2.amazonaws.com/secure.notion-static.com/aa2ba01f-5a2a-4e3c-ada7-3c00a717918a/transferir.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210806%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210806T145441Z&X-Amz-Expires=86400&X-Amz-Signature=c7f9cc73d568ec6a7486194149c2df970bec65fa5d94ba271a1bdcdf334ce6cb&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22transferir.png%22"/>
+ <img height="100em" src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/aa2ba01f-5a2a-4e3c-ada7-3c00a717918a/transferir.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210806%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210806T145441Z&X-Amz-Expires=86400&X-Amz-Signature=c7f9cc73d568ec6a7486194149c2df970bec65fa5d94ba271a1bdcdf334ce6cb&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22transferir.png%22"/>
 
 
 <div align="left" width="3">
