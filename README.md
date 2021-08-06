@@ -24,7 +24,7 @@
 </div>
  
 <div> 
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22u5sgcsp7bvy23iqjpv4vcbi&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22u5sgcsp7bvy23iqjpv4vcbi&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
  </div>
  
  
