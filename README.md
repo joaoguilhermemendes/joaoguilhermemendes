@@ -2,8 +2,8 @@
  <div>
 
   
- <video height="150em" src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c47a8ef8-a38c-4b54-b102-bb396429fd76/prog.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210806%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210806T131558Z&X-Amz-Expires=86400&X-Amz-Signature=d891dfa2d1a9423526636900adbd38855937b545e080f5aba525f10c75fc7919&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22prog.mp4%22"/>
- <img height="150em" src="https://user-images.githubusercontent.com/68798128/128456739-f4979363-6bca-4220-bbe4-5c27e78b6770.png"/>
+ <video height="150em" src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/80fe180d-3ee8-4f87-b6f8-685748692bd0/prog.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210806%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210806T132843Z&X-Amz-Expires=86400&X-Amz-Signature=0cdd8b03e8fa3d935507f4a7467d5b6be7628772c462475f4af966d2da3836fd&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22prog.gif%22"/>
+ <img height="150em" src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f8d5aa13-c534-491b-bd83-db9598b46a2a/mat.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210806%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210806T132914Z&X-Amz-Expires=86400&X-Amz-Signature=af69f1fa787c2bb37f3eeef7b240f3b35a8e82e890d83821f851712d7f9f8214&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22mat.gif%22"/>
  <img height="150em" src="https://thumbs.gfycat.com/ClearShoddyDrongo-max-1mb.gif"/>
  </div><br>
  
