@@ -1,6 +1,6 @@
 
  <div>
- <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+ <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up."/>
  <img height="150em" src="https://user-images.githubusercontent.com/68798128/128456739-f4979363-6bca-4220-bbe4-5c27e78b6770.png"/>
  <img height="150em" src="https://thumbs.gfycat.com/ClearShoddyDrongo-max-1mb.gif"/>
  </div><br>
