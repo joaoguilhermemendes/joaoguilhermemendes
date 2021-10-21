@@ -1,6 +1,6 @@
 
  <div>
- <img height="170em" src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2db3ad72-b613-47ab-8107-11bba87d3d1c/_3dtext2gif_ktfhtxggaedi.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210806%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210806T134837Z&X-Amz-Expires=86400&X-Amz-Signature=c3024d115fe0068963045a95119abc2895eeb2d0aed3e6b31181459ea58de0b5&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22_3dtext2gif_ktfhtxggaedi.gif%22"/>
+ <img height="170em" src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/80fe180d-3ee8-4f87-b6f8-685748692bd0/prog.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20211021%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211021T023858Z&X-Amz-Expires=86400&X-Amz-Signature=5f5160b7e7b25556227f9e4614db3459794b16310ad257074919bb7d47083f36&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22prog.gif%22"/>
   
  <img height="170em" src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/980fe852-9a97-4325-b31c-b3e7683b7ad6/prog.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210807%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210807T173458Z&X-Amz-Expires=86400&X-Amz-Signature=3eef4e32b9be0047e1da6d1a2fc2dfcc39d4cc957c4c8bb9b40edd87eb33b21d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22prog.gif%22"/>
  
