@@ -9,6 +9,7 @@
 
  ## Contatos
 <div>
+  <a href="https://joaoguilhermemendes.github.io/Site---Joao-Guilherme-Mendes/#body"><img src="https://img.shields.io/badge/Portfolio-00B2FF?style=for-the-badge&logo=portfolio&logoColor=white"></a>
   <a href="https://www.youtube.com/channel/UC4ZZGjr6iErkdvSytagUr8A" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/joao_guilherme26/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:joaoguilhermemendes@id.uff.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
