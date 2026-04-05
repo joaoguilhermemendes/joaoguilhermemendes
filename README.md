@@ -1,4 +1,4 @@
-<img width="1070" height="745" alt="image" src="https://github.com/user-attachments/assets/3d4c11ab-dc0a-434e-871e-a15a7c1d4970" />## `$ About Me | Sobre Mim`
+## `$ About Me | Sobre Mim`
 
 `[EN]` Computer Science student at UFF and software developer with a growing focus on data science and analytical systems. I build research-oriented projects using SQL, Python, and AI, exploring real-world datasets and scalable solutions while strengthening my foundations in algorithms, statistics, and machine learning.
 
