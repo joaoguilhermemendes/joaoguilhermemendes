@@ -32,7 +32,6 @@
 
 ## $ Technologies & Tools | Tecnologias & Ferramentas
 
-### Data Science
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy)
@@ -42,18 +41,16 @@
 ![Colab](https://img.shields.io/badge/Colab-000000?style=for-the-badge&logo=googlecolab)
 ![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite)
 
-### Systems & Backend
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c)
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
 ![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
 
-### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css)
 ![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss)
 ![Sass](https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass)
 
