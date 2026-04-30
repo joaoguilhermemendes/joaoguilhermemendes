@@ -1,58 +1,62 @@
-## `$ About Me | Sobre Mim`
+## $ About Me | Sobre Mim
 
-`[EN]` Computer Science student at UFF and software developer with a growing focus on data science and analytical systems. I build research-oriented projects using SQL, Python, and AI, exploring real-world datasets and scalable solutions while strengthening my foundations in algorithms, statistics, and machine learning.
+[EN] Computer Science student at UFF and software developer with a growing focus on data science and analytical systems. I build research-oriented projects using SQL, Python, and AI, exploring real-world datasets and scalable solutions while strengthening my foundations in algorithms, statistics, and machine learning.
 
-`[PT-BR]` Estudante de Ciência da Computação na UFF e desenvolvedor de software com foco crescente em ciência de dados e sistemas analíticos. Desenvolvo projetos voltados à pesquisa utilizando SQL, Python e IA, explorando dados do mundo real e soluções escaláveis, enquanto fortaleço minha base em algoritmos, estatística e aprendizado de máquina.
+[PT-BR] Estudante de Ciência da Computação na UFF e desenvolvedor de software com foco crescente em ciência de dados e sistemas analíticos. Desenvolvo projetos voltados à pesquisa utilizando SQL, Python e IA, explorando dados do mundo real e soluções escaláveis, enquanto fortaleço minha base em algoritmos, estatística e aprendizado de máquina.
 
-## `$ Contact | Contato`
+---
 
-<div style="display: inline_block; margin-top: 4px;">
- <a target="blank" href="https://jgmendes.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
- </a>
- 
- <a target="_blank" href="https://www.linkedin.com/in/jo%C3%A3o-guilherme-porto-mendes-855098209/">
-  <img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=white">
- </a> 
- 
- <a target="blank" href="mailto:joaoguilhermemendes@id.uff.br">
-  <img src="https://img.shields.io/badge/Gmail-3A3A3A?style=for-the-badge&logo=gmail&logoColor=white">
- </a>
- 
- <a target="_blank" href="https://lattes.cnpq.br/9460711429082348">
-  <img src="https://img.shields.io/badge/Lattes-F5F5F5?style=for-the-badge&logo=googlescholar&logoColor=black">
- </a>
+## $ Contact | Contato
+
+<div style="display: flex; flex-direction: column; gap: 8px; margin-top: 6px; width: fit-content;">
+
+<a target="_blank" href="https://jgmendes.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
+
+<a target="_blank" href="https://www.linkedin.com/in/jo%C3%A3o-guilherme-porto-mendes-855098209/">
+<img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a target="_blank" href="mailto:joaoguilhermemendes@id.uff.br">
+<img src="https://img.shields.io/badge/Gmail-3A3A3A?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a target="_blank" href="https://lattes.cnpq.br/9460711429082348">
+<img src="https://img.shields.io/badge/Lattes-F5F5F5?style=for-the-badge&logo=googlescholar&logoColor=black">
+</a>
+
 </div>
 
+---
 
-## `$ Technologies & Tools | Tecnologias & Ferramentas`
+## $ Technologies & Tools | Tecnologias & Ferramentas
 
- <div style="display: inline_block; margin-top: 4px;">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
-   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-plain.svg">
-   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg">
-   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
-   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecolab/googlecolab-original.svg">
-   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
-   <br>
-   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-   <br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-</div>
+### Data Science
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikitlearn)
+![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter)
+![Colab](https://img.shields.io/badge/Colab-000000?style=for-the-badge&logo=googlecolab)
+![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite)
 
-<hr style="border: 0.5px solid #30363d;">
+### Systems & Backend
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
 
-`[EN]` Interested in data science, algorithms, and analytical systems. Outside of coding, I enjoy reading, chess, and talking about basketball. 
-<br>
-`[PT-BR]` Interessado em ciência de dados, algoritmos e sistemas analíticos. Fora da programação, gosto de ler, jogar xadrez e conversar sobre basquete.
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3)
+![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss)
+![Sass](https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass)
+
+[EN] Interested in data science, algorithms, and analytical systems. Outside of coding, I enjoy reading, chess, and talking about basketball.  
+
+[PT-BR] Interessado em ciência de dados, algoritmos e sistemas analíticos. Fora da programação, gosto de ler, jogar xadrez e conversar sobre basquete.
