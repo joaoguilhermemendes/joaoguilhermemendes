@@ -1,11 +1,10 @@
 ## $ About Me | Sobre Mim
 
-[EN] Computer Science student at UFF and software developer with a growing focus on data science and analytical systems. I build research-oriented projects using SQL, Python, and AI, exploring real-world datasets and scalable solutions while strengthening my foundations in algorithms, statistics, and machine learning.
+```[EN]``` Computer Science student at UFF and software developer with a growing focus on data science and analytical systems. I build research-oriented projects using SQL, Python, and AI, exploring real-world datasets and scalable solutions while strengthening my foundations in algorithms, statistics, and machine learning.
 
-[PT-BR] Estudante de Ciência da Computação na UFF e desenvolvedor de software com foco crescente em ciência de dados e sistemas analíticos. Desenvolvo projetos voltados à pesquisa utilizando SQL, Python e IA, explorando dados do mundo real e soluções escaláveis, enquanto fortaleço minha base em algoritmos, estatística e aprendizado de máquina.
+```[PT-BR]``` Estudante de Ciência da Computação na UFF e desenvolvedor de software com foco crescente em ciência de dados e sistemas analíticos. Desenvolvo projetos voltados à pesquisa utilizando SQL, Python e IA, explorando dados do mundo real e soluções escaláveis, enquanto fortaleço minha base em algoritmos, estatística e aprendizado de máquina.
 
 ---
-## $ Contact | Contato
 
 ## $ Contact | Contato
 
@@ -40,6 +39,6 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss)
 ![Sass](https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass)
 
-[EN] Interested in data science, algorithms, and analytical systems. Outside of coding, I enjoy reading, chess, and talking about basketball.  
+```[EN]``` Interested in data science, algorithms, and analytical systems. Outside of coding, I enjoy reading, chess, and talking about basketball.  
 
-[PT-BR] Interessado em ciência de dados, algoritmos e sistemas analíticos. Fora da programação, gosto de ler, jogar xadrez e conversar sobre basquete.
+```[PT-BR]``` Interessado em ciência de dados, algoritmos e sistemas analíticos. Fora da programação, gosto de ler, jogar xadrez e conversar sobre basquete.
