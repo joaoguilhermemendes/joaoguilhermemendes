@@ -5,28 +5,14 @@
 [PT-BR] Estudante de Ciência da Computação na UFF e desenvolvedor de software com foco crescente em ciência de dados e sistemas analíticos. Desenvolvo projetos voltados à pesquisa utilizando SQL, Python e IA, explorando dados do mundo real e soluções escaláveis, enquanto fortaleço minha base em algoritmos, estatística e aprendizado de máquina.
 
 ---
+## $ Contact | Contato
 
 ## $ Contact | Contato
 
-<div style="display: flex; flex-direction: column; gap: 8px; margin-top: 6px; width: fit-content;">
-
-<a target="_blank" href="https://jgmendes.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
-</a>
-
-<a target="_blank" href="https://www.linkedin.com/in/jo%C3%A3o-guilherme-porto-mendes-855098209/">
-<img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a target="_blank" href="mailto:joaoguilhermemendes@id.uff.br">
-<img src="https://img.shields.io/badge/Gmail-3A3A3A?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a target="_blank" href="https://lattes.cnpq.br/9460711429082348">
-<img src="https://img.shields.io/badge/Lattes-F5F5F5?style=for-the-badge&logo=googlescholar&logoColor=black">
-</a>
-
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jgmendes.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-guilherme-porto-mendes-855098209/)
+[![Gmail](https://img.shields.io/badge/Gmail-3A3A3A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaoguilhermemendes@id.uff.br)
+[![Lattes](https://img.shields.io/badge/Lattes-F5F5F5?style=for-the-badge&logo=googlescholar&logoColor=black)](https://lattes.cnpq.br/9460711429082348)
 
 ---
 
