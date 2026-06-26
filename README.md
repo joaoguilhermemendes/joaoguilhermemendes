@@ -39,6 +39,6 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss)
 ![Sass](https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass)
 
-```[EN]``` Interested in data science, algorithms, and analytical systems. Outside of coding, I enjoy reading, chess, and talking about basketball.  
+```[EN]``` Interested in data science, bioinformatics algorithms, computational biology, and analytical systems. Outside of coding, I enjoy reading, chess, and talking about basketball.  
 
-```[PT-BR]``` Interessado em ciência de dados, algoritmos e sistemas analíticos. Fora da programação, gosto de ler, jogar xadrez e conversar sobre basquete.
+```[PT-BR]``` Interessado em ciência de dados, bioinformática, biologia computacional, algoritmos e sistemas analíticos. Fora da programação, gosto de ler, jogar xadrez e conversar sobre basquete.
